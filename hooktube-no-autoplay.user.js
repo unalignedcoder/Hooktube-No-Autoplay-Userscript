@@ -1,9 +1,11 @@
 // ==UserScript==
 // @description stop autoplay on Hooktube URLs
 // @name HooktubeNoAutoplay
-// @namespace https://github.com/unalignedcoder/Hooktube-No-Autoplay-Userscript/
 // @include *hooktube.com/watch*
-// @version 0.1.1
+// @author Unaligned Coder
+// @version 0.1.3
+// @namespace https://github.com/unalignedcoder/Hooktube-No-Autoplay-Userscript/
+// @downloadURL https://github.com/unalignedcoder/Hooktube-No-Autoplay-Userscript/raw/master/hooktube-no-autoplay.user.js
 // @run-at document-start
 // @grant none
 // ==/UserScript==
