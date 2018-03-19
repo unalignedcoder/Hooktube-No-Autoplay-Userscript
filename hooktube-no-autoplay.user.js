@@ -3,8 +3,9 @@
 // @name HooktubeNoAutoplay
 // @include *hooktube.com/watch*
 // @author Unaligned Coder
-// @version 0.1.6
-// @license OSI-SPDX-Short-Identifier
+// @version 0.1.7
+// @license CC-BY-NC-SA-4.0; https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+// @license GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
 // @namespace https://github.com/unalignedcoder/Hooktube-No-Autoplay-Userscript/
 // @downloadURL https://github.com/unalignedcoder/Hooktube-No-Autoplay-Userscript/raw/master/hooktube-no-autoplay.user.js
 // @run-at document-start
