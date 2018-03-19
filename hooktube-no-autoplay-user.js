@@ -1,7 +1,7 @@
 // ==UserScript==
 // @description stop autoplay on Hooktube URLs
 // @name HooktubeNoAutoplay
-// @include *hooktube.com/*
+// @include *hooktube.com/watch*
 // @version 0.1.0
 // @run-at document-start
 // @grant none
